@@ -9,7 +9,5 @@ For infinite dimenisonal systems, we rely heavily on fibre bundle, jet bundle an
 
 TODO LIST:
 
-    Finish the geometry part
-    Add abstract PDEtype class
-    Add abstract class for Lagrangian and Hamiltonian
+    A lot
 
